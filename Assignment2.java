@@ -11,7 +11,7 @@ public class Assignment2 {
         int N = 0;
         int z = Integer.MAX_VALUE;
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Orkhan, you can enter any numbers between 1 and 1000: ");
+        System.out.println("Nijat, you can enter any numbers between 1 and 1000: ");
         k = scanner.nextInt();                                               // to take  input (k)
 
         for (i = 1; i <= z; i++) {                           //actually, this condition equals to true but I initialized max_value
